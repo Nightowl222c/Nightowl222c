@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nightowl222c
 - 👀 I’m interested in webdevelopment & network security
-- 🌱 I’m currently learning Java & Ruby
+- 🌱 I’m currently working on PHP projects.
 
 <!---
 Nightowl222c/Nightowl222c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
