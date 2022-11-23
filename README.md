@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nightowl222c
-- 👀 I’m interested in webdevelopment & network security
+- 👀 I’m interested in webdevelopment & network security.
 - 🌱 I’m currently working mostly on React-Projects.
 
 <!---
